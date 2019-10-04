@@ -1,5 +1,5 @@
 {
-  "name": "yogesh_api_suggeja",
+  "name": "nodejs-server-side-api-call",
   "version": "1.0.0",
   "description": "App to build a full stack web application using React, Node.js, Express and Webpack.",
   "main": "src/server/index.js",
