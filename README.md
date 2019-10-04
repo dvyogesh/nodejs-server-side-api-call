@@ -9,10 +9,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/dvyogesh/yogesh_api_suggeja.git
+git clonehttps://github.com/dvyogesh/nodejs-server-side-api-call.git
 
 # Go inside the directory
-cd yogesh_api_suggeja
+cd nodejs-server-side-api-call
 
 # Install dependencies
 yarn (or npm install)
